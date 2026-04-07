@@ -1,0 +1,19 @@
+[registry]
+name = "npm"
+url = "https://registry.npmjs.org/"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[programs]
+rwipool = "RwaPooL111111111111111111111111111111111111"
+
+[programs.localnet]
+rwipool = "RwaPooL111111111111111111111111111111111111"
+
+[programs.devnet]
+rwipool = "RwaPooL111111111111111111111111111111111111"
+
+[programs.mainnet]
+rwipool = "REPLACE_WITH_MAINNET_PROGRAM_ID"
