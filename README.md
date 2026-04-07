@@ -513,7 +513,8 @@ Unauthorized         // Not pool admin
 
 | Name | Role | Contact | Avatar |
 |------|------|---------|--------|
-| Maxim Afanasyev | Founder & Lead Engineer | [Telegram](https://t.me/maxnutrition) · [X](https://x.com/_Marakaya) | [@Marakaya](https://github.com/Marakaya) |
+| Kulakova Kate | Founder & Product Lead | Telegram · X | @Extravoganza |
+| Zaytseva Daria | Founder & Lead Engineer | Telegram · X | @Daria_Zaitseva17 |
 
 ---
 
